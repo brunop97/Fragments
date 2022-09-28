@@ -7,8 +7,7 @@
         android:id="@+id/imAnimal"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="@drawable/curucaca"
-        />
+        android:src="@drawable/curucaca" />
 
     <TextView
         android:id="@+id/tvDescricao"

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\ComFragment\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\ComFragment\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\ComFragment\\app\\build\\intermediates\\res\\merged\\debug\\drawable_queroquero.jpg.flat",
+        "source": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\ComFragment\\app\\src\\main\\res\\drawable\\queroquero.jpg"
+    },
+    {
+        "merged": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\ComFragment\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gralhaazul.jpg.flat",
+        "source": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\ComFragment\\app\\src\\main\\res\\drawable\\gralhaazul.jpg"
+    },
+    {
+        "merged": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\ComFragment\\app\\build\\intermediates\\res\\merged\\debug\\layout_right_fragment.xml.flat",
+        "source": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\ComFragment\\app\\src\\main\\res\\layout\\right_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\ComFragment\\app\\build\\intermediates\\res\\merged\\debug\\drawable_curucaca.jpg.flat",
+        "source": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\ComFragment\\app\\src\\main\\res\\drawable\\curucaca.jpg"
+    },
+    {
+        "merged": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\ComFragment\\app\\build\\intermediates\\res\\merged\\debug\\drawable_graxaim.jpg.flat",
+        "source": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\ComFragment\\app\\src\\main\\res\\drawable\\graxaim.jpg"
+    },
+    {
+        "merged": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\ComFragment\\app\\build\\intermediates\\res\\merged\\debug\\layout_left_fragment.xml.flat",
+        "source": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\ComFragment\\app\\src\\main\\res\\layout\\left_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\ComFragment\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\ComFragment\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\ComFragment\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ourico.jpg.flat",
+        "source": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\ComFragment\\app\\src\\main\\res\\drawable\\ourico.jpg"
+    }
+]

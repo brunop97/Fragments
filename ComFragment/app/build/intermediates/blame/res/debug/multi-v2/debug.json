@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\ComFragment\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\ComFragment\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "12,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "457,748",
+                        "endLines": "18,21",
+                        "endColumns": "12,12",
+                        "endOffsets": "743,903"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\ComFragment\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,4,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,174,104",
+                        "endColumns": "48,71,69",
+                        "endOffsets": "99,241,169"
+                    },
+                    "to": {
+                        "startLines": "9,10,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "266,315,387",
+                        "endColumns": "48,71,69",
+                        "endOffsets": "310,382,452"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\ComFragment\\app\\src\\main\\res\\values\\elementos_lista.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "19",
+                        "endOffsets": "266"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "19",
+                        "endOffsets": "261"
+                    }
+                }
+            ]
+        }
+    ]
+}
