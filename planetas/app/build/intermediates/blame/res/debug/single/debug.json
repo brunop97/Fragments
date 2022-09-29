@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\planetas\\app\\build\\intermediates\\res\\merged\\debug\\layout_right_fragment.xml.flat",
+        "source": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\planetas\\app\\src\\main\\res\\layout\\right_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\planetas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_netuno.jpg.flat",
+        "source": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\planetas\\app\\src\\main\\res\\drawable\\netuno.jpg"
+    },
+    {
+        "merged": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\planetas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_venus.jpg.flat",
+        "source": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\planetas\\app\\src\\main\\res\\drawable\\venus.jpg"
+    },
+    {
+        "merged": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\planetas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\planetas\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\planetas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_saturno.jpg.flat",
+        "source": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\planetas\\app\\src\\main\\res\\drawable\\saturno.jpg"
+    },
+    {
+        "merged": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\planetas\\app\\build\\intermediates\\res\\merged\\debug\\layout_left_fragment.xml.flat",
+        "source": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\planetas\\app\\src\\main\\res\\layout\\left_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\planetas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_terra.jpg.flat",
+        "source": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\planetas\\app\\src\\main\\res\\drawable\\terra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\planetas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_marte.jpg.flat",
+        "source": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\planetas\\app\\src\\main\\res\\drawable\\marte.jpg"
+    },
+    {
+        "merged": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\planetas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jupiter.jpg.flat",
+        "source": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\planetas\\app\\src\\main\\res\\drawable\\jupiter.jpg"
+    },
+    {
+        "merged": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\planetas\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\planetas\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\planetas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mercurio.jpg.flat",
+        "source": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\planetas\\app\\src\\main\\res\\drawable\\mercurio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\planetas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_urano.jpg.flat",
+        "source": "C:\\Users\\bpero\\Documents\\GitHub\\Fragments\\planetas\\app\\src\\main\\res\\drawable\\urano.jpg"
+    }
+]
